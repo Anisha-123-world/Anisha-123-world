@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anisha-123-world
 - 👀 I’m interested in coding...
-- 🌱 I’m currently learning languages and tools and technologies.
-- 💞️ I’m looking to do internship at mnc's and many more as a software engineer.
+- 🌱 I’m currently learning languages,tools and technologies.
+- 💞️ I’m looking to do internship as a software engineer.
 
 
 <!---
